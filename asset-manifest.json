@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cheshire/static/css/main.323d7611.css",
+    "main.js": "/Cheshire/static/js/main.94a1a57f.js",
+    "static/js/453.eb570f4f.chunk.js": "/Cheshire/static/js/453.eb570f4f.chunk.js",
+    "index.html": "/Cheshire/index.html",
+    "main.323d7611.css.map": "/Cheshire/static/css/main.323d7611.css.map",
+    "main.94a1a57f.js.map": "/Cheshire/static/js/main.94a1a57f.js.map",
+    "453.eb570f4f.chunk.js.map": "/Cheshire/static/js/453.eb570f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.94a1a57f.js"
+  ]
+}
